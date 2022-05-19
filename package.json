@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:gabrielhz/videomaker.git",
   "author": "gabramos <gabrielramoscardoso@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
